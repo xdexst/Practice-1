@@ -8,3 +8,9 @@ public:
 	int width;
 	Road();
 };
+
+Road::Road()
+{
+	length = 111.1;
+	width = 11111;
+}
